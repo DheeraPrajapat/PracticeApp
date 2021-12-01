@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_the_string">Enter the string!</string>
+    <string name="generate">Generate</string>
+</resources>
